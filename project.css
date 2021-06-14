@@ -1,0 +1,9 @@
+h1 {
+    color:#154fed23
+}
+.all{
+    background-color: magenta;
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
